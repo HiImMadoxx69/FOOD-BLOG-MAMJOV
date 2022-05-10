@@ -87,7 +87,17 @@ p {
 }
 
 img {
-	max-width: 100%;
+	max-width: 110%;
+	max-width: 110%;
+	border-radius: 10px;
+	
+}
+
+img:hover{
+	zoom: 1.02;
+	border-radius: 10px;
+	
+	box-shadow: 2px 7px 2px 7px #4a526b;
 }
 
 input:focus,
