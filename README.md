@@ -1,2 +1,3 @@
 # FOOD-BLOG-MAMJOV
-join here
+Manuel Olarve
+Harvey Gultiano
